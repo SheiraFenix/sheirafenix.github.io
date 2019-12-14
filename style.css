@@ -1,8 +1,24 @@
-.body { background: #000000;
-	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+body { 
+	background: #000000;
 	color: aliceblue;
+	
 
+}
+
+
+#header {
+	height: 8em;
+	width: auto;
+	color: aqua;
+	
+	
+	
 	
 	
 }
-
+#header img{
+	margin: 20px 50px 50px 50px;
+	
+	
+	
+}
